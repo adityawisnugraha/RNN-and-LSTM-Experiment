@@ -33,8 +33,6 @@ A CSV file (`rnn_lstm_experiment_results.csv`) will be generated containing the 
 | Model | Embed_Dim | Seq_Len | Hidden_Dim | Accuracy | Precision | Recall | F1-Score |
 |-------|------------|----------|-------------|-----------|------------|--------|-----------|
 
-## License
-MIT License
 
 ---
 Feel free to modify and extend this experiment for other NLP tasks or embedding strategies.
